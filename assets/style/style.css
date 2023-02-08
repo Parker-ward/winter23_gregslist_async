@@ -1,5 +1,10 @@
 /* BASIC STYLES HERE */
-.car-img{
+.car-img {
+  height: 30vh;
+  object-fit: cover;
+}
+
+.house-img {
   height: 30vh;
   object-fit: cover;
 }
